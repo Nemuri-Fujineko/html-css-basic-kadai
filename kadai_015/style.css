@@ -1,11 +1,10 @@
 html{
   font-size: 20px;
-  text-align: center;
 }
 
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  
+  text-align: center;
 }
 
 h1{
@@ -23,11 +22,11 @@ h1{
   color: rgb(255, 192, 203);
 }
 
-.skyblue{
+.blue{
   color: skyblue;
 }
 
-div > p{
+#basic > p{
   font-weight: bold;
 }
 /* 
